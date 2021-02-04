@@ -8,4 +8,4 @@
 
 ### Images
 
-<img src="IMG_20201130_134731~2.jpg?raw=true" width="400" height="300">
+<img src="Screenshot%202021-02-04%20at%2012.52.41%20PM.png?raw=true">
