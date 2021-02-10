@@ -7,7 +7,7 @@
 - https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing
 
 ### Images
-<img src="Idea%231's.jpg?raw=true" width="300" height="300"><img src="Idea%232's.jpg?raw=true" width="300" height="300"><img src="Idea%233's.jpg?raw=true" width="300" height="300"> 
+<img src="Idea%231's.jpg?raw=true" width="300" height="300"> <img src="Idea%232's.jpg?raw=true" width="300" height="300"> <img src="Idea%233's.jpg?raw=true" width="300" height="300"> 
 
 
 ## Rough drafts- 
