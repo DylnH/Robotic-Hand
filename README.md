@@ -6,7 +6,7 @@
 
 ## Plans and designs
 
-- As of right now, we 6 possible designs we could use. three different ways to control the arm, and two ways of holding it in place (pictures in "Images"). Our drafts and thought processes are in "Links" aswell a CAD prototype.
+- As of right now, we have 6 possible designs we could use and those designs could inspire more in the future. Three different ways to control the arm, and two ways of holding it in place (pictures in "Images"). Our drafts and thought processes are in "Links" aswell a CAD prototype.
 
 ### Links
 ### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
