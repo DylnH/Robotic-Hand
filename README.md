@@ -2,7 +2,7 @@
 
 ## Project
 
-- This Robotic arm will be controlled by one or two people using flex sencors or with the possiblity of using additional controls. The main purpose for the arm would be to pick up certain toxic objects that may be considered dangerous for humans to touch or come in contacted with. With this, hazardous chemicals could be handled and picked up just like any normal item. Possible uses include, be attached to a rover, used to test chemical reactions from a distance, additional virtual assistants, High-five people that are infectious, pet porcupines, etc.
+- This Robotic arm will be controlled by one or two people using flex sencors or with the possiblity of using additional controls. The main purpose for the arm would be to pick up certain toxic objects that may be considered dangerous for humans to touch or come in contacted with. With this, hazardous chemicals could be handled and picked up just like any normal item. Possible uses include, being attached to a rover, used to test chemical reactions from a distance, additional virtual assistants, High-five people that are infectious, pet porcupines, etc.
 
 ## Plans and designs
 
