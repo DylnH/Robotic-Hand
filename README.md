@@ -30,7 +30,7 @@
 
 - The one major issue that is giving me problems with making good progress on our project is the continous issues I keep having with the USB cable. Its such a small issue, yet if I leave this problem unresolved, I will not be able to code. I don't know what causes this to happen, but the only solution that has worked in the past was to replacing the cable entirely. But since this problem has happened before and the USB cables cost money, going through multiple of them at a time is not ideal. 
 
-- Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed.
+- Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
 
 ### Issues related to CAD
 
