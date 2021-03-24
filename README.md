@@ -33,5 +33,5 @@
 - Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
 
 ### Issues related to CAD
-
+[Servo wrist extension]([Henry C.](https://github.com/hcoyle91))
 
