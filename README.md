@@ -22,7 +22,7 @@
 - [Dylan H.](https://github.com/OstrichIsYum)
 
 
-## Project Updates
+## Project Update #1
 
 1. What major obstacle is keeping you from making better progress on your project?
 
@@ -34,4 +34,13 @@
 
 ### Issues related to CAD
 - [Servo wrist extension](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/ad8df5c5b138ea41852755f6)
+
+
+## Project Update #2
+
+1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
+2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape.
+
+### Pictures
+
 
