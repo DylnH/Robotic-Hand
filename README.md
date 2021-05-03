@@ -43,6 +43,5 @@
 
 ### Pictures
 
-<img src="Idea%231's.jpg?raw=true" width="200" height="200">
-
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true">
 
