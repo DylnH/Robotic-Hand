@@ -47,7 +47,7 @@ ________________________________________________________________________________
 <img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="462.5" height="272.5">
 
 ### Code
-[Code (there are only two because three are broken. however the code still works with five)](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
+[Code (there are only two because 3 out of 5 are broken. however the code still works with five)](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
 
 ``` arduino
 
