@@ -116,4 +116,4 @@ void loop()
 ```
 ### Wiring Diagram
 
-<img src="Idea%231's.jpg?raw=true" width="200" height="200">
+<img src="Screenshot%20(3).png?raw=true">
