@@ -114,3 +114,6 @@ void loop()
   delay(100);
   }
 ```
+### Wiring Diagram
+
+<img src="Idea%231's.jpg?raw=true" width="200" height="200">
