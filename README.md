@@ -117,3 +117,9 @@ void loop()
 ### Wiring Diagram
 
 <img src="Screenshot%20(3).png?raw=true" width="450">
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+## Project Update #3
+
+1. We are officially almost done with the robotic arm... fabrication is complete, coding is complete, however we only need two more flex sensors and the project will be complete.
