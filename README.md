@@ -119,27 +119,11 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________
 
-## Project Update #1
-
-1. What major obstacle is keeping you from making better progress on your project?
-
 ### Issues related to Code
 
 - The one major issue that is giving me problems with making good progress on our project is the continous issues I keep having with the USB cable. Its such a small issue, yet if I leave this problem unresolved, I will not be able to code. I don't know what causes this to happen, but the only solution that has worked in the past was to replacing the cable entirely. But since this problem has happened before and the USB cables cost money, going through multiple of them at a time is not ideal. 
 
 - Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
-
-### Issues related to CAD
-- [Servo wrist extension](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/ad8df5c5b138ea41852755f6)
-
-
-## Project Update #2
-
+ 
 1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
 2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
-
-
-## Project Update #3
-
-1. We are officially almost done with the robotic arm... fabrication is complete, coding is complete, however we only need two more flex sensors and the project will be complete.
-
