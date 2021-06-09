@@ -25,7 +25,7 @@
 
 #### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
 
-<img scr="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400">
+<img src="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400">
 
 ##### [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
 
