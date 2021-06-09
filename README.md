@@ -125,3 +125,41 @@ ________________________________________________________________________________
 1. We are officially almost done with the robotic arm... fabrication is complete, coding is complete, however we only need two more flex sensors and the project will be complete.
 
 2. ### [It Works Almost](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
+
+
+<details><summary>Pseudocode 1</summary>
+ 
+ ```C++
+
+Void setup()
+
+magnet.pin = n
+
+Move.arm ()
+	Servoangle.read (ፀx0, ፀy0)
+	Position.read(x1,y1) 
+	Angle.calc (ፀx1, ፀy1) 
+	Angle.calc (ፀx1-ፀx0, ፀy1-ፀy0) = val 1
+	Servo.move (val 1) 
+	# redo with increasing numbers, save data of initial angle. Ex new ፀx0= old ፀx1
+
+
+Magnet.on()
+	magnet.pin (HIGH,)
+
+Magnet.off()
+	magnet.pin (LOW) 
+
+Void loop() 
+
+Move.arm  (x0,y0 to x1,y1)
+
+Magnet.on 
+
+move.arm (x1, y1 to x2, y2)
+
+Magnet.off 
+
+
+ ```
+</details>
