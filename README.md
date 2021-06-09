@@ -29,7 +29,8 @@
 
 #### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
 
-<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400">
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400"> [hand working](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
+
 
 ### Collaborators
 
@@ -140,4 +141,3 @@ ________________________________________________________________________________
 
 1. We are officially almost done with the robotic arm... fabrication is complete, coding is complete, however we only need two more flex sensors and the project will be complete.
 
-2. ### [It Works Almost](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
