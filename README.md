@@ -7,8 +7,11 @@
 ## Tools
 
  [- Arduino (Code)](https://www.arduino.cc/en/software)
+ 
  [- Onshape (CAD)](https://www.onshape.com/en/)
+ 
  [ - Tinkercad (Wiring Diagram)](https://www.tinkercad.com/)
+ 
  [ - Github (Documentation)](https://github.com/)
 
 ## Plans and designs
