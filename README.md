@@ -122,6 +122,7 @@ ________________________________________________________________________________
 <img src="IMG_20210609_160046.jpg?raw=true" width="375">
  
 4. Final assembly with first prototype
+<img src="IMG_20210609_155017.jpg?raw=true" width="375">
  
 
  
