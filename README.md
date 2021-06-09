@@ -23,7 +23,7 @@
 #### [ - CAD Prototype #2](https://cvilleschools.onshape.com/documents/62c7a92cca544a7948515c1f/w/716b7169d27807b3b1dfb269/e/1354ae3ba9a9e1a6ade7407c)
 
 ### Images
-<img src="Idea%231's.jpg?raw=true" width="200" height="200"><img src="Idea%232's.jpg?raw=true" width="200" height="200"><img src="Idea%233's.jpg?raw=true" width="200" height="200"><img src="Screenshot%202021-02-04%20at%2012.52.41%20PM.png?raw=true" width="200" height="200"><img src="Screenshot%202021-02-04%20at%2012.53.10%20PM.png?raw=true" width="200" height="200">
+<img src="Idea%231's.jpg?raw=true" width="200" height="200"><img src="Idea%232's.jpg?raw=true" width="200" height="200"><img src="Idea%233's.jpg?raw=true" width="200" height="200">
 
 ## Collaborators
 
