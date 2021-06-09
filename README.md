@@ -23,8 +23,7 @@
 ### Stand and Wall designs
 <img src="Idea%231's.jpg?raw=true" width="200"><img src="Idea%232's.jpg?raw=true" width="200"><img src="Idea%233's.jpg?raw=true" width="200">
 
-#### [- CAD Prototype #1](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
-#### [ - CAD Prototype #2](https://cvilleschools.onshape.com/documents/62c7a92cca544a7948515c1f/w/716b7169d27807b3b1dfb269/e/1354ae3ba9a9e1a6ade7407c)
+#### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
 
 ## Collaborators
 
