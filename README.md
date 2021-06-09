@@ -25,14 +25,11 @@
 
 #### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
 
-<img src="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400">
-
-##### [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
-
+<img src="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400"> [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
 
 #### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
 
-<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="462.5" height="272.5">
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="450">
 
 ### Collaborators
 
