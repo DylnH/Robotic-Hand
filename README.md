@@ -4,6 +4,13 @@
 
 - This projects goal was to make a Robotic arm. The fun part was that there weren't any real specifications, so anything could happen. What we decided was to make a flex sensor controlled arm, that would mimic the fingers of an individual. In Theory, this arm could be used as a multi-purposed arm. It could pick up certain toxic objects that may be considered dangerous for humans to touch or come in contact with, being attached to a rover, used to test chemical reactions from a distance, additional virtual assistants, or even petting porcupines. The user could wear a glove with the flex sencors attached, and the hand does exactally what the controller does. It's a fairly Simple idea, but carrying it out is a whole other story.
 
+## Tools
+
+ [- Arduino (Code)](https://www.arduino.cc/en/software)
+ [- Onshape (CAD)](https://www.onshape.com/en/)
+ [ - Tinkercad (Wiring Diagram)](https://www.tinkercad.com/)
+ [ - Github (Documentation)](https://github.com/)
+
 ## Plans and designs
 
 - As of right now, we have 6 possible designs we could use and those designs could inspire more in the future. Three different ways to control the arm, and two ways of holding it in place (pictures in "Images"). Our drafts and thought processes are in "Links" aswell a CAD prototype.
