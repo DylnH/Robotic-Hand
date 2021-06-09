@@ -18,57 +18,10 @@ ________________________________________________________________________________
  
  ________________________________________________________________________________________________________________________________________________________________________
  
- #### Wiring Diagram
+ #### Wiring Diagram and Commented Code
 
-<img src="Screenshot%20(3).png?raw=true" width="450">
+<img src="Screenshot%20(3).png?raw=true" width="400">
 
-_________________________________________________________________________________________________________________________________________________________________________
-
-### Plans and designs
-
-#### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
-
-- We had many iterations of what the project could look like, however, in the end, you can see that the designs we came up with ended up looking nothing like the end result. At First, we thought it would be good to attach the arm to some sort of stand or wall. However, we soon realized that this would take extra time away from the actual design, so we stayed away from it. We even had a prototype design for these specifications, and it would’ve moved along the wall like [Mark Rober’s moving dart board,](https://www.youtube.com/watch?v=MHTizZ_XcUM) but we scratch that idea as well. This design could be done in the future, but we decided to keep it simple. Our final design uses a premade hand, controlled by servos pulling on each finger, with elastic pulling back to keep its shape.
-
-#### Stand and Wall designs
-<img src="Idea%231's.jpg?raw=true" width="200"><img src="Idea%232's.jpg?raw=true" width="200"><img src="Idea%233's.jpg?raw=true" width="200">
-
-#### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
-
-<img src="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400"> [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
-
-#### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
-
-<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400"> [hand working](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
-
-
-### Collaborators
-
-- [Henry C.](https://github.com/hcoyle91)
-- [Dylan H.](https://github.com/OstrichIsYum)
-
-________________________________________________________________________________________________________________________________________________________________________
-
-## Project Update #1
-
-1. What major obstacle is keeping you from making better progress on your project?
-
-### Issues related to Code
-
-- The one major issue that is giving me problems with making good progress on our project is the continous issues I keep having with the USB cable. Its such a small issue, yet if I leave this problem unresolved, I will not be able to code. I don't know what causes this to happen, but the only solution that has worked in the past was to replacing the cable entirely. But since this problem has happened before and the USB cables cost money, going through multiple of them at a time is not ideal. 
-
-- Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
-
-### Issues related to CAD
-- [Servo wrist extension](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/ad8df5c5b138ea41852755f6)
-
-
-## Project Update #2
-
-1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
-2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
-
-### Code
 [Code (there are only two because 3 out of 5 are broken. however the code still works with five)](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
 
 <details><summary>Code</summary>
@@ -140,6 +93,54 @@ void loop()
 ```
 
 </details>
+_________________________________________________________________________________________________________________________________________________________________________
+
+### Plans and designs
+
+#### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
+
+- We had many iterations of what the project could look like, however, in the end, you can see that the designs we came up with ended up looking nothing like the end result. At First, we thought it would be good to attach the arm to some sort of stand or wall. However, we soon realized that this would take extra time away from the actual design, so we stayed away from it. We even had a prototype design for these specifications, and it would’ve moved along the wall like [Mark Rober’s moving dart board,](https://www.youtube.com/watch?v=MHTizZ_XcUM) but we scratch that idea as well. This design could be done in the future, but we decided to keep it simple. Our final design uses a premade hand, controlled by servos pulling on each finger, with elastic pulling back to keep its shape.
+
+#### Stand and Wall designs
+<img src="Idea%231's.jpg?raw=true" width="200"><img src="Idea%232's.jpg?raw=true" width="200"><img src="Idea%233's.jpg?raw=true" width="200">
+
+#### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
+
+<img src="Screenshot%202021-06-09%202.15.11%20PM.png?raw=true" width="400"> [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
+
+#### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
+
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400"> [hand working](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
+
+
+### Collaborators
+
+- [Henry C.](https://github.com/hcoyle91)
+- [Dylan H.](https://github.com/OstrichIsYum)
+
+________________________________________________________________________________________________________________________________________________________________________
+
+## Project Update #1
+
+1. What major obstacle is keeping you from making better progress on your project?
+
+### Issues related to Code
+
+- The one major issue that is giving me problems with making good progress on our project is the continous issues I keep having with the USB cable. Its such a small issue, yet if I leave this problem unresolved, I will not be able to code. I don't know what causes this to happen, but the only solution that has worked in the past was to replacing the cable entirely. But since this problem has happened before and the USB cables cost money, going through multiple of them at a time is not ideal. 
+
+- Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
+
+### Issues related to CAD
+- [Servo wrist extension](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/ad8df5c5b138ea41852755f6)
+
+
+## Project Update #2
+
+1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
+2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
+
+### Code
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
