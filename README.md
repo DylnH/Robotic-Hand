@@ -29,7 +29,7 @@
 
 #### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
 
-<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="450">
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400">
 
 ### Collaborators
 
