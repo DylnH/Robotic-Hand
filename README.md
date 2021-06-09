@@ -49,7 +49,7 @@ ________________________________________________________________________________
 ### Code
 [Code (there are only two because 3 out of 5 are broken. however the code still works with five)](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
 
-<details><summary>Code 1</summary>
+<details><summary>Code</summary>
  
 ``` arduino
 #include <Servo.h>
