@@ -22,7 +22,8 @@ ________________________________________________________________________________
 
 <img src="Screenshot%20(3).png?raw=true" width="400">
 
-##### <details><summary>Robotic Arm Code</summary>
+##### 
+<details><summary>Robotic Arm Code</summary>
  
 ``` arduino
 #include <Servo.h>
