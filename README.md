@@ -118,6 +118,9 @@ ________________________________________________________________________________
  
  [2. Robotic Arm done (missing two flex sensors, but code completely works)](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
  
+ 3. <img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400">
+
+ 
   
 ### Collaborators
 
