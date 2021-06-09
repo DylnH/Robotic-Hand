@@ -89,8 +89,8 @@ void loop()
   delay(100);
   }
 ```
-
 </details>
+ 
  
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -111,7 +111,7 @@ ________________________________________________________________________________
 
 <img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400"> [hand working](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
  
- [Code (there are only two because 3 out of 5 are broken. however the code still works with five)] (https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
+(https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
  
 ### Collaborators
 
