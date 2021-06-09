@@ -93,7 +93,7 @@ void loop()
  
 _________________________________________________________________________________________________________________________________________________________________________
 
-### Plans and designs
+### Plans and Designs
 
 #### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
 
