@@ -93,6 +93,7 @@ void loop()
 ```
 
 </details>
+ 
 _________________________________________________________________________________________________________________________________________________________________________
 
 ### Plans and designs
@@ -139,10 +140,6 @@ ________________________________________________________________________________
 1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
 2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
 
-### Code
-
-
-_________________________________________________________________________________________________________________________________________________________________________________
 
 ## Project Update #3
 
