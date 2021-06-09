@@ -124,20 +124,14 @@ ________________________________________________________________________________
 4. Final assembly with first prototype
 <img src="IMG_20210609_155017.jpg?raw=true" width="325">
  
+ ________________________________________________________________________________________________________________________________________________________________________
+  
+### Problems and Solutions
+ 
+- The main issues I ran into a lot were that most of the materials I was given didn't work. I went through many USB Cords and two Metro Express's during this school year. I also didn't have any prior expierence with flex sensors before, and I couldn't find a single thing about using them with a metro express. The best solution I found was switch over to an Arduino Uno. Now that I had somthing that worked, I was able to figure out how to use flex sensors. For anyone overwhelmed by using Flex Sencors for the first time or trying to recreate this project, Here is the code for the project in english." If the flex sensor is bent to a certain angle between 0 and 180, the servo will match the angle." that's it. And if you the code for this project, I hope can see that it's not as complex as you might think. it's a bit redundant but it's not complex. So when it doubt, with any project, "Make it as simple as you can so you don't hurt your brain.For Cad, it was a bit difficult to find a high quality pre-made hands to download onto onshape. However that was quickly taken care of. the only real obstacle was the speed of 3d printing and fabrication. Assembly was also a bit of a pain due to working at home, but as you can see, it turn out alright.
 
  
-  
-### Collaborators
+ #### Collaborators
 
 - [Henry C.](https://github.com/hcoyle91)
 - [Dylan H.](https://github.com/OstrichIsYum)
-
-
-### Issues related to Code
-
-- The one major issue that is giving me problems with making good progress on our project is the continous issues I keep having with the USB cable. Its such a small issue, yet if I leave this problem unresolved, I will not be able to code. I don't know what causes this to happen, but the only solution that has worked in the past was to replacing the cable entirely. But since this problem has happened before and the USB cables cost money, going through multiple of them at a time is not ideal. 
-
-- Due to the previous problem, I am not able to submit any of the code I have so far, but I will do so when the problem is fixed. Despite this, Note that I was makeing good progess with using flex sensors to rotate servo.
- 
-1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
-2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
