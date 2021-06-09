@@ -1,10 +1,10 @@
 # Robotic-Arm
 
-## Overview
+### Overview
 
 - This projects goal was to make a Robotic arm. The fun part was that there weren't any real specifications, so anything could happen. What we decided was to make a flex sensor controlled arm, that would mimic the fingers of an individual. In Theory, this arm could be used as a multi-purposed arm. It could pick up certain toxic objects that may be considered dangerous for humans to touch or come in contact with, being attached to a rover, used to test chemical reactions from a distance, additional virtual assistants, or even petting porcupines. The user could wear a glove with the flex sencors attached, and the hand does exactally what the controller does. It's a fairly Simple idea, but carrying it out is a whole other story.
 
-## Tools
+### Tools
 
  [- Arduino (Code)](https://www.arduino.cc/en/software)
  
@@ -14,18 +14,18 @@
  
  [ - Github (Documentation)](https://github.com/)
 
-## Plans and designs
+### Plans and designs
 
 #### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
 
 - We had many iterations of what the project could look like, however, in the end, you can see that the designs we came up with ended up looking nothing like the end result. At First, we thought it would be good to attach the arm to some sort of stand or wall. However, we soon realized that this would take extra time away from the actual design, so we stayed away from it. We even had a prototype design for these specifications, and it would’ve moved along the wall like [Mark Rober’s moving dart board,](https://www.youtube.com/watch?v=MHTizZ_XcUM) but we scratch that idea as well. This design could be done in the future, but we decided to keep it simple. Our final design uses a premade hand, controlled by servos pulling on each finger, with elastic pulling back to keep its shape.
 
-### Stand and Wall designs
+#### Stand and Wall designs
 <img src="Idea%231's.jpg?raw=true" width="200"><img src="Idea%232's.jpg?raw=true" width="200"><img src="Idea%233's.jpg?raw=true" width="200">
 
 #### [- CAD Prototype Specified for wall ](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
 
-## Collaborators
+### Collaborators
 
 - [Henry C.](https://github.com/hcoyle91)
 - [Dylan H.](https://github.com/OstrichIsYum)
