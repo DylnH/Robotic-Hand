@@ -16,7 +16,7 @@
 
 ## Plans and designs
 
-- As of right now, we have 6 possible designs we could use and those designs could inspire more in the future. Three different ways to control the arm, and two ways of holding it in place (pictures in "Images"). Our drafts and thought processes are in "Links" aswell a CAD prototype.
+- We had many iterations of what the project could look like, however, in the end, you can see that the designs we came up with ended up looking nothing like the end result. At First, we thought it would be good to attach the arm to some sort of stand or wall. However, we soon realized that this would take extra time away from the actual design, so we stayed away from it. We even had a prototype design for these specifications, and it would’ve moved along the wall like [- Mark Rober’s moving dart board,](https://www.youtube.com/watch?v=MHTizZ_XcUM) but we scratch that idea as well. This design could be done in the future, but we decided to keep it simple. Our final design uses a premade hand, controlled by servos pulling on each finger, with elastic pulling back to keep its shape.
 
 ### Links
 ### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
