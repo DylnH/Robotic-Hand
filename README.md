@@ -29,6 +29,7 @@
 
 ##### [(Wall design moving)](https://drive.google.com/file/d/1KeHIvSfq9kleZb0yazV1TSGmkmo0Zmrf/view?usp=sharing)
 
+<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="462.5" height="272.5">
 
 ### Collaborators
 
@@ -55,10 +56,6 @@ ________________________________________________________________________________
 
 1. Code as of right now, is complete. However, It might have to be changed to meet the needs of the CAD half of the project.
 2. CAD as of right now, is complete*. However, It might have to be changed to meet the needs of the Code half of the project.(dylan's notes. I acutally don't know if cad is complete. It looks like it is based on what I've seen on Onshape).
-
-### Pictures
-
-<img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="462.5" height="272.5">
 
 ### Code
 [Code (there are only two because 3 out of 5 are broken. however the code still works with five)](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
