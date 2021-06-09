@@ -131,7 +131,7 @@ void loop()
 
 </details>
 
-### Wiring Diagram
+#### Wiring Diagram
 
 <img src="Screenshot%20(3).png?raw=true" width="450">
 
