@@ -2,8 +2,19 @@
 
 #### Table of Contents
 
+ [- Overview](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#overview)
+ 
+ [- Tools](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#tools)
+ 
+ [- Wiring Diagram](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#wiring-diagram-and-commented-code)
+ 
+ [- Plans and Designs](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#plans-and-designs)
+ 
+ [- Photos and Videos](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#photos-and-videos)
+ 
+ [- Problems and Solutions](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#problems-and-solutions)
 
-
+ [- Collaborators](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#collaborators)
 
 
 ### Overview
@@ -18,9 +29,9 @@ ________________________________________________________________________________
  
  [- Onshape (CAD)](https://www.onshape.com/en/)
  
- [ - Tinkercad (Wiring Diagram)](https://www.tinkercad.com/)
+ [- Tinkercad (Wiring Diagram)](https://www.tinkercad.com/)
  
- [ - Github (Documentation)](https://github.com/)
+ [- Github (Documentation)](https://github.com/)
  
  ________________________________________________________________________________________________________________________________________________________________________
  
