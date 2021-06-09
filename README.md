@@ -116,7 +116,7 @@ ________________________________________________________________________________
  
  [1. Code staring to work](https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
  
- [2. Robotic Arm done (missing two flex sensors, but code completely works](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
+ [2. Robotic Arm done (missing two flex sensors, but code completely works)](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
  
   
 ### Collaborators
