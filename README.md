@@ -18,10 +18,9 @@
 
 - We had many iterations of what the project could look like, however, in the end, you can see that the designs we came up with ended up looking nothing like the end result. At First, we thought it would be good to attach the arm to some sort of stand or wall. However, we soon realized that this would take extra time away from the actual design, so we stayed away from it. We even had a prototype design for these specifications, and it would’ve moved along the wall like [Mark Rober’s moving dart board,](https://www.youtube.com/watch?v=MHTizZ_XcUM) but we scratch that idea as well. This design could be done in the future, but we decided to keep it simple. Our final design uses a premade hand, controlled by servos pulling on each finger, with elastic pulling back to keep its shape.
 
-### Links
-### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
-### [- CAD Prototype #1](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
-### [ - CAD Prototype #2](https://cvilleschools.onshape.com/documents/62c7a92cca544a7948515c1f/w/716b7169d27807b3b1dfb269/e/1354ae3ba9a9e1a6ade7407c)
+#### [- Planning Document and Pseudocode](https://docs.google.com/document/d/1A5yr3gwvPFNczzGg2IPSaRJFIutgpFQ-Hbp36jQhLAk/edit?usp=sharing)
+#### [- CAD Prototype #1](https://cvilleschools.onshape.com/documents/bb650a5758ea41f57e61b52f/w/1ee44fa1089f16d3b393ba3a/e/24473f01d90508c6ebd4ea05)
+#### [ - CAD Prototype #2](https://cvilleschools.onshape.com/documents/62c7a92cca544a7948515c1f/w/716b7169d27807b3b1dfb269/e/1354ae3ba9a9e1a6ade7407c)
 
 ### Images
 <img src="Idea%231's.jpg?raw=true" width="200" height="200"><img src="Idea%232's.jpg?raw=true" width="200" height="200"><img src="Idea%233's.jpg?raw=true" width="200" height="200"><img src="Screenshot%202021-02-04%20at%2012.52.41%20PM.png?raw=true" width="200" height="200"><img src="Screenshot%202021-02-04%20at%2012.53.10%20PM.png?raw=true" width="200" height="200">
