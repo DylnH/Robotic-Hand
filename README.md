@@ -110,14 +110,18 @@ ________________________________________________________________________________
 
 <img src="Screenshot%202021-05-03%2011.10.20%20AM.png?raw=true" width="400"> [(Hand working)](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
  
-(https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
+ ________________________________________________________________________________________________________________________________________________________________________
  
+ ### Photos and Videos
+ 
+ [1. Code staring to work]https://drive.google.com/file/d/16vUKTdU-LGm613mKrdmvg-yJmQ_zKxg0/view?usp=sharing)
+ 
+  
 ### Collaborators
 
 - [Henry C.](https://github.com/hcoyle91)
 - [Dylan H.](https://github.com/OstrichIsYum)
 
-________________________________________________________________________________________________________________________________________________________________________
 
 ### Issues related to Code
 
